@@ -89,6 +89,7 @@
   body {
     font-size: 14px!important;
     font-weight: 400!important;
-    font-family: droid,sans-serif
+    font-family: droid,sans-serif;
+    overflow-x: hidden!important;
   }
   
